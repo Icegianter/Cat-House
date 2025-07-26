@@ -1,2 +1,6 @@
 # Cat-House
 All the plans and any code I decide to add for my cathouse project
+
+This project will end in the production of a modern decked out outdoor cat house for my two kittens to sleep in. The end goal is to have a house that can withstand wind, rain, heat, cold, snow, and predators/ the neighborhood bully cat. I've been thinking about building a cat house for a while, but never got around to it, and now with this Highway Hackathon, I finally had the inspiration to do it. But this isn't going to be a simple 4 walled house with an a frame roof. This is going to be a beautiful piece of modern architecture custom fitted with LED surround lights, heating/AC, weather instruments, smart cat detection, and anything else I come up with on the way.
+
+My cats have been beaten up by the neighborhood bully cat for a while now, and I can constantly hear the fights going on at night. We used to let them into the garage to eat and sleep, but then they started peeing on everything, so we stopped that, and now they need a safe home to sleep the nights through outside. We didn't want to purchase a cat house because one, they're expensive; two, they're not custom; and three, it doesn't feel special and like I care about my cats. So the answer is, DIY it!

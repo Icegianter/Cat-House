@@ -10,4 +10,5 @@ I know that this is pushing the cutoff time with the end of this Hackathon being
 Time spent: 1 hr 30 min
 
 Day 2: July 26 -
-Today I worked on creating a shopping list of all items I'll be needing technology wise. 
+Today I worked on creating a shopping list of all items I'll be needing technology wise. For now it's all on Amazon, tomorrow I'll check Aliexpress. I cut out some of my plans because it just wouldn't work with the tech, but eventually I think I found everything I need. Now I need to calculate the size of the house to bring the model to scale and figure out how much wood I need.
+Time spend: 3 hr 0 min
